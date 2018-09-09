@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <!--- title -->
+  <string name="title_newgame">NewGame</string>
+  <string name="title_continue">Continue</string>
+  <!--- select -->
+  <string name="select_difficulty">Difficulty</string>
+  <string name="select_seed">Seed</string>
+  <string name="select_company_color">Color</string>
+  <string name="select_cpu_num">CPU</string>
+  <string name="select_back">Back</string>
+  <string name="select_start">Start</string>
+  <!--- calculate -->
+  <string name="calculate_text">Calculating...</string>
+  <!--- main -->
+  <string name="main_price">Price</string>
+  <string name="main_quantity">Quantity</string>
+  <string name="main_demand">Demand</string>
+  <string name="main_supply">Supply</string>
+  <string name="main_profit">Profit</string>
+  <string name="main_profit_rate">Profit Rate</string>
+  <string name="main_save">Save</string>
+  <string name="main_newsave">New Save</string>
+  <string name="main_overwrite">Overwrite</string>
+  <string name="main_close">Close</string>
+  <string name="main_load">Load</string>
+  <string name="main_to_title">Return to Title</string>
+  <string name="main_net_assets">Net Assets</string>
+  <string name="main_menu_development">Menu Development</string>
+  <string name="main_develop">Develop</string>
+  <string name="main_food_name_placeholder">Enter Food Name...</string>
+  <string name="main_not_selected">Not Selected</string>
+  <string name="main_borrow">Borrow</string>
+  <string name="main_repay">Repay</string>
+  <string name="main_borrow_money">Borrow Money</string>
+  <string name="main_repay_money">Repay Money</string>
+  <string name="main_current_interest_rate">Current Interest Rate</string>
+  <string name="main_presented_interest_rate">Presented Interest Rate</string>
+  <string name="main_credit_limit">Credit Limit</string>
+  <string name="main_amount_of_money">Amount of Money</string>
+  <string name="main_learning_skill">Learn Skill</string>
+  <string name="main_level_up">Level-Up</string>
+  <string name="main_reduce_construction_cost">Construction cost is reduced by Lv x 0.5%</string>
+  <string name="main_raise_research_probability">Increase success rate of research by Lv x 9.0%</string>
+  <string name="main_construction_cost">Cost</string>
+  <string name="main_assets">Assets</string>
+  <string name="main_money">Money</string>
+  <string name="main_factory">Factory</string>
+  <string name="main_under_construction">Under Construction</string>
+  <string name="main_skill">Skill</string>
+  <string name="main_liabilities">Liabilities</string>
+  <string name="main_sales">Sales</string>
+  <string name="main_cost">Cost</string>
+  <string name="main_labor_cost">Labor Cost</string>
+  <string name="main_patent">Patent</string>
+  <string name="main_ingredients">Ingredients</string>
+  <string name="main_none">None</string>
+  <string name="main_base_productivity">Base Productivity</string>
+  <string name="main_factory_size">Factory Size</string>
+  <string name="main_cancel">Cancel</string>
+  <string name="main_dai"></string>
+  <string name="main_generation">Gen</string>
+  <string name="main_final_productivity">Final Productivity</string>
+</languages>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <!--- title -->
+  <string name="title_newgame">はじめから</string>
+  <string name="title_continue">つづきから</string>
+  <!--- select -->
+  <string name="select_difficulty">難易度</string>
+  <string name="select_seed">シード値</string>
+  <string name="select_company_color">会社の色</string>
+  <string name="select_cpu_num">CPUの数</string>
+  <string name="select_back">戻る</string>
+  <string name="select_start">ゲーム開始</string>
+  <!--- calculate -->
+  <string name="calculate_text">価格を計算中……</string>
+  <!--- main -->
+  <string name="main_price">価格</string>
+  <string name="main_quantity">数量</string>
+  <string name="main_demand">需要</string>
+  <string name="main_supply">供給</string>
+  <string name="main_profit">利益</string>
+  <string name="main_profit_rate">利益率</string>
+  <string name="main_save">セーブ</string>
+  <string name="main_newsave">新規セーブ</string>
+  <string name="main_overwrite">上書き</string>
+  <string name="main_close">閉じる</string>
+  <string name="main_load">ロード</string>
+  <string name="main_to_title">タイトルへ戻る</string>
+  <string name="main_net_assets">純資産</string>
+  <string name="main_menu_development">料理開発</string>
+  <string name="main_develop">開発する</string>
+  <string name="main_food_name_placeholder">料理名を入力してください……</string>
+  <string name="main_not_selected">未選択</string>
+  <string name="main_borrow">借りる</string>
+  <string name="main_repay">返す</string>
+  <string name="main_borrow_money">お金を借りる</string>
+  <string name="main_repay_money">お金を返す</string>
+  <string name="main_current_interest_rate">現在の金利</string>
+  <string name="main_presented_interest_rate">提示された金利</string>
+  <string name="main_credit_limit">限度額</string>
+  <string name="main_amount_of_money">金額</string>
+  <string name="main_learning_skill">スキル習得</string>
+  <string name="main_level_up">レベルアップ</string>
+  <string name="main_reduce_construction_cost">Lv x 0.5%だけ建設費が減少</string>
+  <string name="main_raise_research_probability">Lv x 9.0%だけ研究の成功率が上昇</string>
+  <string name="main_construction_cost">建設費</string>
+  <string name="main_assets">資産</string>
+  <string name="main_money">お金</string>
+  <string name="main_factory">工場</string>
+  <string name="main_under_construction">建設中の工場</string>
+  <string name="main_skill">スキル</string>
+  <string name="main_liabilities">負債</string>
+  <string name="main_sales">売り上げ</string>
+  <string name="main_cost">原価</string>
+  <string name="main_labor_cost">人件費</string>
+  <string name="main_patent">特許料</string>
+  <string name="main_ingredients">原材料</string>
+  <string name="main_none">なし</string>
+  <string name="main_base_productivity">ベースの生産力</string>
+  <string name="main_factory_size">工場の大きさ</string>
+  <string name="main_cancel">キャンセル</string>
+  <string name="main_dai">第</string>
+  <string name="main_generation">世代</string>
+  <string name="main_final_productivity">最終的な生産力</string>
+</languages>
